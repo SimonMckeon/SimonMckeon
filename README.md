@@ -1,51 +1,43 @@
-<p align="center">
+<p>
   <img alt="Hello, I'm Simon" src="./media/header.png" />
 </p>
 
-<h1 align="center">About Me</h1>
+<h1>About Me</h1>
 
-<p align="center">I am currently building experiences for recording artists, labels and everything in between @ [Modern English](https://modernenglish.co.uk/). I am a lover of all thigs JavaScript, but love to get my hands dirty with whatever tech stack helps me solve a problem.</p>
+<p>I am currently building experiences for recording artists, labels and everything in between @ Modern English. I am a lover of all thigs JavaScript, but love to get my hands dirty with whatever tech stack helps me solve a problem.</p>
 
-<h1 align="center">Recent Projects</h1>
+<h1>Recent Projects</h1>
 
-<p align="center">
-<img alt="" src="./media/rsfav.png" />
-</p>
+<h3>The Rolling Stones Experience</h3>
 
-<h3 align="center">The Rolling Stones Experience</h3>
-
-<p align="center">
+<p>
 Hyrbid Wordpress & Vue development celebrating the career of The Rolling Stones
 </p>
+<a href="https://experience.rollingstones.com/">View Live</a>
 
-<p align="center">
+<p>
   <img alt="" src="./media/rse.png" />
 </p>
 
-<p align="center">
-  <img alt="" src="./media/nfav.png" />
-</p>
+<h3>Nirvana</h3>
 
-<h3 align="center">Nirvana</h3>
-
-<p align="center">
+<p>
 Vue with ThreeJS project sharing Nirvana fan stories from all around the world
 </p>
-<p align="center">
+<a href="https://nevermind.nirvana.com/">View Live</a>
+
+<p>
   <img alt="" src="./media/nirvana.jpg" />
 </p>
 
-<p align="center">
-  <img alt="" src="./media/topfav.png" />
-</p>
+<h3>Topsify</h3>
 
-<h3 align="center">Topsify</h3>
-
-<p align="center">
+<p>
 Custom CMS development with Laravel, Livewire and Tailwind
 </p>
+<a href="https://topsify.com/">View Live</a>
 
-<p align="center">
+<p>
   <img alt="" src="./media/topsify.png" />
 </p>
 
