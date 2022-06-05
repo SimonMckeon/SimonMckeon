@@ -13,7 +13,8 @@
 <p>
 Hyrbid Wordpress & Vue development celebrating the career of The Rolling Stones
 </p>
-<a href="https://experience.rollingstones.com/">View Live</a>
+<br>
+<a href="https://experience.rollingstones.com/" target="_blank" rel="noopener noreferrer">View Live</a>
 
 <p>
   <img alt="" src="./media/rse.png" />
@@ -24,7 +25,8 @@ Hyrbid Wordpress & Vue development celebrating the career of The Rolling Stones
 <p>
 Vue with ThreeJS project sharing Nirvana fan stories from all around the world
 </p>
-<a href="https://nevermind.nirvana.com/">View Live</a>
+<br>
+<a href="https://nevermind.nirvana.com/" target="_blank" rel="noopener noreferrer">View Live</a>
 
 <p>
   <img alt="" src="./media/nirvana.jpg" />
@@ -35,7 +37,8 @@ Vue with ThreeJS project sharing Nirvana fan stories from all around the world
 <p>
 Custom CMS development with Laravel, Livewire and Tailwind
 </p>
-<a href="https://topsify.com/">View Live</a>
+<br>
+<a href="https://topsify.com/" target="_blank" rel="noopener noreferrer">View Live</a>
 
 <p>
   <img alt="" src="./media/topsify.png" />
