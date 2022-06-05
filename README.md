@@ -1,52 +1,53 @@
-<div style="text-align: center">
+<p align="center">
+  <img alt="Hello, I'm Simon" src="./media/header.png" />
+</p>
 
-![Hello, I'm Simon](./media/header.png)
+<h1 align="center">About Me</h1>
 
-<br><br>
+<p align="center">I am currently building experiences for recording artists, labels and everything in between @ [Modern English](https://modernenglish.co.uk/). I am a lover of all thigs JavaScript, but love to get my hands dirty with whatever tech stack helps me solve a problem.</p>
 
-# About me
+<h1 align="center">Recent Projects</h1>
 
-<br><br>
+<p align="center">
+<img alt="" src="./media/rsfav.png" />
+</p>
 
-I am currently building experiences for recording artists, labels and everything in between @ [Modern English](https://modernenglish.co.uk/). I am a lover of all thigs JavaScript, but love to get my hands dirty with whatever tech stack helps me solve a problem.
+<h3 align="center">The Rolling Stones Experience</h3>
 
-<br><br>
-
-# Recent Projects
-
-<br><br>
-
-![](./media/rsfav.png)
-
-### The Rolling Stones Experience
-
+<p align="center">
 Hyrbid Wordpress & Vue development celebrating the career of The Rolling Stones
-<br><br>
+</p>
 
-[![rolling stones experience](./media/rse.png)](https://experience.rollingstones.com/)
+<p align="center">
+  <img alt="" src="./media/rse.png" />
+</p>
 
-<br><br>
+<p align="center">
+  <img alt="" src="./media/nfav.png" />
+</p>
 
-![](./media/nfav.png)
+<h3 align="center">Nirvana</h3>
 
-### Nirvana
-
+<p align="center">
 Vue with ThreeJS project sharing Nirvana fan stories from all around the world
-<br><br>
-[![Nirvana](./media/nirvana.jpg)](https://nevermind.nirvana.com/)
+</p>
+<p align="center">
+  <img alt="" src="./media/nirvana.jpg" />
+</p>
 
-<br><br>
+<p align="center">
+  <img alt="" src="./media/topfav.png" />
+</p>
 
-![](./media/topfav.png)
+<h3 align="center">Topsify</h3>
 
-### Topsify
-
+<p align="center">
 Custom CMS development with Laravel, Livewire and Tailwind
-<br><br>
+</p>
 
-[![Topsify](./media//topsify.png)](https://topsify.com/)
-
-</div>
+<p align="center">
+  <img alt="" src="./media/topsify.png" />
+</p>
 
 <!--
 **SimonMckeon/SimonMckeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
