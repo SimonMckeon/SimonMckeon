@@ -4,7 +4,7 @@
 
 <h1>About Me</h1>
 
-<p>I am currently building experiences for recording artists, labels and everything in between @ Modern English. I am a lover of all thigs JavaScript, but love to get my hands dirty with whatever tech stack helps me solve a problem.</p>
+<p>I am currently building experiences for recording artists, labels and everything in between @ Modern English. I am a lover of all things JavaScript, but love to get my hands dirty with whatever tech stack helps me solve a problem.</p>
 
 <h1>Recent Projects</h1>
 
